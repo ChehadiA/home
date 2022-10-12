@@ -1,0 +1,49 @@
+p 
+{
+	color: yellow;
+ 
+}
+body
+{
+	color: purple;
+
+}
+body
+{
+	
+	background: black;
+	
+	
+	background-image:'messi.jpg';
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+		
+	
+
+}
+
+.center {
+	
+	text-align: center;
+}
+a
+{
+	color: red;
+}
+ol
+{
+	color: yellow;
+}
+h1
+{
+	color: purple;
+}
+h2
+{
+	color: purple;
+}
+video 
+{
+	white-space: pre;
+}
